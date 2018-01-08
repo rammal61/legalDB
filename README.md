@@ -1,0 +1,2 @@
+# legalDB
+arabic legal text 
